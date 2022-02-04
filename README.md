@@ -1,5 +1,6 @@
 # Hi Guys I'm Bruna Eduarda!
-
+  <a href = "mailto:brunaduda37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruna-eduarda-a06a1b18b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 - :seedling: I’m currently learning:
 	- Full Stack Web Development at __@Tryber__;
@@ -39,3 +40,8 @@
 	[db04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg	"MS SQL Server"
 [dy01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg	"Arduino"
 [dy02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg	"Raspberry Pi"
+	
+	
+ 	
+
+ 
