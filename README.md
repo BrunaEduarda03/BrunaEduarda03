@@ -5,8 +5,6 @@
 	- Full Stack Web Development at __@Tryber__;
 	- Node.js, Python, HTML,CSS,JavaScrispt,react and a few other things.
 
-- :revolving_hearts: I’m looking to collaborate on:
-	- open source projects;
 
 
 <div align="center">
