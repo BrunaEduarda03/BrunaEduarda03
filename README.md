@@ -15,7 +15,7 @@
 </div>
 	
 ## 
-
+<div>
 <img align="center" alt="bruna-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="bruna-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bruna-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,8 @@
   <img align="center" alt="bruna-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" />
   <img align="center" alt="bruna-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 	
+![Snake animation](https://github.com/BrunaEduarda03/BrunaEduarda03/blob/output/github-contribution-grid-snake.svg)	
 	
- 	
+</div>
 
  
