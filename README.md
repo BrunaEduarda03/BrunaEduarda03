@@ -43,7 +43,7 @@
 		 My Soft Skills
 		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
 	<h3>
-	<h4 align="center">Collaboration,Creative, Empathy, Resilience, Good Listener, Time Management, Argumentation<h4>
+	<h4 align="center">Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation<h4>
 </div>
 		
 ##
