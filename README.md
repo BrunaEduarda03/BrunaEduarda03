@@ -55,8 +55,8 @@
 <div align="center">
 	<h3 align="center"> :boom:  My GitHub Stats <h3>
   <a href="https://github.com/BrunaEduarda03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaeduarda03&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaeduarda03&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaEduarda03&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaEduarda03&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 	
 ![Snake animation](https://github.com/BrunaEduarda03/BrunaEduarda03/blob/output/github-contribution-grid-snake.svg)
