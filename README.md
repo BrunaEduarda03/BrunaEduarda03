@@ -53,7 +53,7 @@
 </div>
  
 <div align="center">
-	<h3 align="center"> :boom:  My GitHub Stats <h3>
+<h3 align="center"> :boom:  My GitHub Stats <h3>
   <a href="https://github.com/BrunaEduarda03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaEduarda03&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaEduarda03&layout=compact&langs_count=7&theme=midnight-purple"/>
