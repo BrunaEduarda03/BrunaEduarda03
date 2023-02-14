@@ -7,7 +7,7 @@
   
 - :seedling: I’m currently learning:
 	- Full Stack Web Development at __@Tryber__;
-	- Node.js, Python, HTML,CSS,JavaScrispt,react and a few other things.
+	- Node.js,React.js, Python,Styled Components,TailWind,TypeScrispt and a few other things.
 
 
 	
