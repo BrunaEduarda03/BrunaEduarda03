@@ -9,9 +9,9 @@
 <h2 align="center">Hey Guys :wave: I'm Bruna :stuck_out_tongue_closed_eyes:</h2>
 <h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
 
-<table align="center" width="100%">
+<table align="center" >
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="10"></td>
 </tr> 
 <tr>
 <td><a href="https://github.com/BrunaEduarda03" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
@@ -37,20 +37,26 @@
 
   ## 
   
-- :seedling: I’m currently learning:
+    
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  - :seedling: I’m currently learning:
 	- Full Stack Web Development at __@Tryber__;
 	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-
-
+	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
+	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
+	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
+	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
+	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
+	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
+		
+</p>
 	
 ## 
 	 
-<div>
-	<h3 align="center">
-		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px" margin-left="10px">
-		 Technology Stack
-		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
-	<h3>
+<div align="left">
+	<h3>Technology Stack<h3>
 	<div align="center">
 <img align="center" alt="bruna-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="bruna-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -67,12 +73,8 @@
 		
 ## 	
 		 
-<div>
-	<h3 align="center">
-		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px" margin-left="10px">
-		 My Soft Skills
-		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
-	<h3>
+<div align="left">
+	<h3> My Soft Skills<h3>
 	<h4 align="center">Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation<h4>
 </div>
 		
