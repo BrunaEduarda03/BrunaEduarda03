@@ -1,19 +1,49 @@
-<h1 align="center">Hey Guys :wave: I'm Bruna :stuck_out_tongue_closed_eyes:</h1>
 
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
+</div>
+
+-----
+<h2 align="center">Hey Guys :wave: I'm Bruna :stuck_out_tongue_closed_eyes:</h2>
 <h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
 
- 
+<table align="center" width="100%">
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/BrunaEduarda03" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:brunaduda37@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5583996635326" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/brunaeduarda_xp/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/bruna-eduarda-a06a1b18b/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://slack.com/app_redirect?channel=U02TNAAH6UX"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td> <a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/></a>
+</td>
+
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table> 
+
   ## 
   
 - :seedling: I’m currently learning:
 	- Full Stack Web Development at __@Tryber__;
-	- Node.js,React.js, Python,Styled Components,TailWind,TypeScrispt and a few other things.
+	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
 
 
 	
 ## 
-
-
 	 
 <div>
 	<h3 align="center">
@@ -62,6 +92,13 @@
 ![Snake animation](https://github.com/BrunaEduarda03/BrunaEduarda03/blob/output/github-contribution-grid-snake.svg)
 	
 </div>
+
+### Now Playing 🎧
+
+[![Spotify](https://open.spotify.com/user/12180255410)]
+<br/>
+
+---
 		
 <h3 align="center"> :space_invader: Connect with me: <h3>
 	
