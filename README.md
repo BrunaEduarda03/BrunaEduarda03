@@ -92,12 +92,14 @@
 ![Snake animation](https://github.com/BrunaEduarda03/BrunaEduarda03/blob/output/github-contribution-grid-snake.svg)
 	
 </div>
+	
+
 
 ### Now Playing 🎧
 
-[![Spotify](https://open.spotify.com/user/12180255410)]
-<br/>
 
+	
+[![Spotify](https://novatorem-yglji31yq-brunaeduarda03.vercel.app/api/spotify)](https://open.spotify.com/user/12180255410)
 ---
 		
 <h3 align="center"> :space_invader: Connect with me: <h3>
