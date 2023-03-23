@@ -6,77 +6,86 @@
 </div>
 
 -----
-<h2 align="center">Hey Guys :wave: I'm Bruna :stuck_out_tongue_closed_eyes:</h2>
-<h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
-
-<table align="center" >
-<tr>
- <td align="center" colspan="10"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/BrunaEduarda03" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:brunaduda37@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5583996635326" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/brunaeduarda_xp/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/bruna-eduarda-a06a1b18b/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://slack.com/app_redirect?channel=U02TNAAH6UX"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td> <a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/></a>
-</td>
-
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table> 
-
-  ## 
   
+  ##
+
+<h2 align="center">Hey Guys :wave: I'm Bruna :stuck_out_tongue_closed_eyes:</h2>
     
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  - :seedling: I’m currently learning:
-	- Full Stack Web Development at __@Tryber__;
-	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-	- Node.js,React.js,Next.Js,Python, Docker,Styled Components,TailWind,TypeScript and a few other things.
-		
+
+I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a graduate in Eletrical Engineering 🎓 UFCG(Universidade Federal de Campina Grande) 🏛 where i had my first contact with programming and since then i'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and pass everything i learn 💻. I'm currently making Web Development(Front/Back/Mobile) projects 👨🏻‍💻 working on my TCC and soon I hope to be working in this area 🚀🚀🚀.
+
+	
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs,NextJs, Express, React,TypeScript,etc.
+- 🚀 &nbsp; I’m always learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BrunaEduarda03).
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 🤓 &nbsp; My Soft Skills: Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love to participate in Hackathons, meetups & tech events.
+- :boom: &nbsp; I Love to practice Sports (especially Volley and beach-tennis).
+
+
+			
 </p>
 	
 ## 
 	 
-<div align="left">
+<div align="center">
 	<h3>Technology Stack<h3>
-	<div align="center">
-<img align="center" alt="bruna-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="bruna-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="bruna-docker" height="40" width="50" src="https://img.icons8.com/color/344/docker.png">
-  <img align="center" alt="bruna-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bruna-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bruna-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="bruna-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="bruna-Redux" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
-  <img align="center" alt="bruna-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" />
-  <img align="center" alt="bruna-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+	<table width="320px" align="center">
+    <tbody style=background="#fafbfc"; textColor="#091E42">
+        <tr valign="top">
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667"><img height="50px" style=backgroundColor="#fafbfc" src="https://camo.githubusercontent.com/85fe5c1ea414287d8a9bc8eb336b53dc79a21a3352d9b5e26fc1c31c4aac6e01/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f696d616765732f32333965633861342d313633652d343739322d383362362d3366366439363931313735372e737667" data-canonical-src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><strong>Javascript</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"><img height="50" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><strong>HTML</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667"><img height="50px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><strong>CSS</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img height="50px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt-br.reactjs.org/"><strong>React</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67"><img height="50" src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67" data-canonical-src="https://testing-library.com/img/octopus-128x128.png" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://testing-library.com/"><strong>RTL</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667"><img height="50px" src="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/"><strong>git</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img height="50px" style=backgroundColor="#fafbfc" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/"><strong>GitHub</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org/en/docs/"><strong>Node</strong></a> </a>
+            </td><td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://jestjs.io/pt-BR/"><strong>Jest</strong></a> </a>
+            </td>
+            <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667"><img height="50px" src="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://redux.js.org/"><strong>Redux</strong></a> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
  </div> 
 		
-		
-## 	
-		 
-<div align="left">
-	<h3> My Soft Skills<h3>
-	<h4 align="center">Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation<h4>
-</div>
 		
 ##
 		
