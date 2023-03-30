@@ -23,13 +23,16 @@ I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a gr
 - 🛠 &nbsp; I’m currently working with Nodejs,NextJs, Express, React,TypeScript,etc.
 - 🚀 &nbsp; I’m always learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BrunaEduarda03).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 🤓 &nbsp; My Soft Skills: Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation
+- 💬 &nbsp; Talk to me about:TV shows,movies(scy-fy/horror),games,esports,awesome projects.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### My Absolute Favorites:
-
-- 💻 &nbsp; I love to participate in Hackathons, meetups & tech events.
-- :boom: &nbsp; I Love to practice Sports (especially Volley and beach-tennis).
+	
+- 🌱 &nbsp; I love to spend time with my family and friends and just talk about everything and anything at all.
+- 💻 &nbsp; I love to study and share what i know with others. 
+- ⚡ &nbsp; I Love to practice Sports (especially Volley and beach-tennis).
+- :bulb: &nbsp; I love to participate in Hackathons, meetups & tech events.
 
 
 			
@@ -73,13 +76,18 @@ I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a gr
             <td width="80px" align="center">
             <br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org/en/docs/"><strong>Node</strong></a> </a>
-            </td><td width="80px" align="center">
+            </td>
+	<td width="80px" align="center">
             <br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667"><img height="50px" src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://jestjs.io/pt-BR/"><strong>Jest</strong></a> </a>
             </td>
             <td width="80px" align="center">
             <br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667"><img height="50px" src="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://redux.js.org/"><strong>Redux</strong></a> </a>
+            </td>
+	    <td width="80px" align="center">
+            <br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667"><img height="50px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" data-canonical-src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.aws.amazon.com/"><strong>aws</strong></a> </a>
             </td>
         </tr>
     </tbody>
@@ -111,12 +119,12 @@ I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a gr
 
 	
 [![Spotify](https://novatorem-yglji31yq-brunaeduarda03.vercel.app/api/spotify)](https://open.spotify.com/user/12180255410)
+	
 ---
+
 		
 <h3 align="center"> :space_invader: Connect with me: <h3>
 	
-	
-## 
 	
 	
 <div align="center">
