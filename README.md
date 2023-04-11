@@ -112,13 +112,6 @@ I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a gr
 	
 </div>
 	
-
-
-### Now Playing 🎧
-
-
-	
-[![Spotify](https://novatorem-yglji31yq-brunaeduarda03.vercel.app/api/spotify)](https://open.spotify.com/user/12180255410)
 	
 ---
 
