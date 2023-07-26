@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/BrunaEduarda03/BrunaEduarda03/assets/73250271/98631a75-8be6-467e-9696-a16270842933"/>
 </div>
 
 -----
