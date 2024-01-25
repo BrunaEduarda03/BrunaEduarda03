@@ -13,7 +13,7 @@
 
 <p align="left"> 
 
-I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a graduate in Eletrical Engineering 🎓 UFCG(Universidade Federal de Campina Grande) 🏛 where i had my first contact with programming and since then i'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and pass everything i learn 💻. I'm currently making Web Development(Front/Back/Mobile) projects 👨🏻‍💻 working on my TCC and soon I hope to be working in this area 🚀🚀🚀.
+👨🏻‍💻 I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a graduate in Eletrical Engineering 🎓 UFCG(Universidade Federal de Campina Grande) 🏛 where i had my first contact with programming and since then i'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i also love to study and make full stack projects and to guide and pass everything i learn with them 💻. I'm currently working as a frontend developer and working on my TCC with react native 🚀🚀🚀
 
 	
 ### Talking about Personal Stuffs:
