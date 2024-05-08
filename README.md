@@ -18,8 +18,9 @@
 	
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs,NextJs, Express, React,TypeScript,etc.
-- 🚀 &nbsp; I’m always learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Nodejs,NextJs,NuxtJs,Vue2 & Vue3, Express, React,React Native,TypeScript 
+and whatever you want me to work on 😅.
+- 🚀 &nbsp; I’m learning something new everyday.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BrunaEduarda03).
 - 🤓 &nbsp; My Soft Skills: Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation
 - 💬 &nbsp; Talk to me about:TV shows,movies(scy-fy/horror),games,esports,awesome projects.
@@ -68,19 +69,23 @@
   <td align="center"><p>MongoDB</p><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
 </td>
 
-  <td align="center"><p>React Native</p><a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="React Native" width="50" height="50"/> </a> 
+  <td align="center"><p>AWS</p><a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="50"/> </a>
 </td>
 
   <td align="center"><p>Docker</p>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
 </td>
+<td align="center"><p>PHP</p>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50"/> </a> 
+</td>
 
 <tr>
-  <td align="center"><p>AWS</p><a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="50"/> </a>
+	 <td align="center"><p>React Native</p><a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="50" height="50"/> </a> 
 </td>
+ 
   <td align="center"><p>Sass</p><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="50" height="50"/> </a>  
 </td>
-<td align="center"><p>Bootstrap</p><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/></a>
+<td align="center"><p>Tailwind</p><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="bootstrap" width="40" height="50"/></a>
 </td>
 <td align="center"><p>CSS</p><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="50" height="50"/> </a>
 </td>
@@ -98,7 +103,9 @@
 </td>
 </td>
 
-  <td align="center"><p>Mocha</p><p align="left"> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/> </a>  
+  <td align="center"><p>Nuxt JS</p><p align="left"> <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="50" height="50"/> </a>  
+</td>
+ <td align="center"><p>Laravel</p><p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/> </a>  
 </td>
 
 </tr>
