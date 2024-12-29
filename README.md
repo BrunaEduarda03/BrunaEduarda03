@@ -13,7 +13,7 @@
 
 <p align="left"> 
 
-👨🏻‍💻 I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm a graduate in Eletrical Engineering 🎓 UFCG(Universidade Federal de Campina Grande) 🏛 where i had my first contact with programming and since then i'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i also love to study and make full stack projects and to guide and pass everything i learn with them 💻. I'm currently working as a frontend developer and working on my TCC with react native 🚀🚀🚀
+👨🏻‍💻 I'm a Brazilian Full Stack Web Developer passionate about technology! I'm a graduate in Electrical Engineering 🎓 from UFCG (Universidade Federal de Campina Grande) 🏛. During my studies, I had my first contact with programming, which sparked my passion for learning and working with diverse technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems ✨. In addition to creating full stack projects, I enjoy sharing my knowledge and guiding others in their learning journey 💻. Currently, I work as a frontend developer. 🚀🚀🚀
 
 	
 ### Talking about Personal Stuffs:
@@ -21,6 +21,7 @@
 - 🛠 &nbsp; I’m currently working with Nodejs,NextJs,NuxtJs,Vue2 & Vue3, Express, React,React Native,TypeScript 
 and whatever you want me to work on 😅.
 - 🚀 &nbsp; I’m learning something new everyday.
+- 📖 &nbsp; I’m currently learning PHP.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BrunaEduarda03).
 - 🤓 &nbsp; My Soft Skills: Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation
 - 💬 &nbsp; Talk to me about:TV shows,movies(scy-fy/horror),games,esports,awesome projects.
@@ -147,7 +148,6 @@ and whatever you want me to work on 😅.
 
   <a href = "mailto:brunaduda37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-eduarda-a06a1b18b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/brunaeduarda_xp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
