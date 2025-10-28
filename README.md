@@ -7,7 +7,7 @@
 
 -----
   
-<h2 align="center">Hey Guys :wave: I'm Bruna :stuck_out_tongue_closed_eyes:</h2>
+<h2 align="center">Hey Guys :wave: I'm Bruna 😎 </h2>
     
 
 
