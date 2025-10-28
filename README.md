@@ -13,7 +13,9 @@
 
 <p align="left"> 
 
-👨🏻‍💻 I'm a Brazilian Full Stack Web Developer passionate about technology! I'm a graduate in Electrical Engineering 🎓 from UFCG (Universidade Federal de Campina Grande) 🏛. During my studies, I had my first contact with programming, which sparked my passion for learning and working with diverse technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems ✨. In addition to creating full stack projects, I enjoy sharing my knowledge and guiding others in their learning journey 💻. Currently, I work as a frontend developer. 🚀🚀🚀
+👨🏻‍💻 I'm a Brazilian Full Stack Web Developer passionate about technology! I'm a graduate in Electrical Engineering 🎓 from UFCG (Universidade Federal de Campina Grande) 🏛. During my studies, I had my first contact with programming, which sparked my passion for learning and working with diverse technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems ✨.
+
+In addition to creating full stack projects, I enjoy sharing my knowledge and guiding others in their learning journey 💻. Currently, I work as a fullstack developer 🚀, have started my postgraduate studies in Software Engineering, and am preparing for the AWS Certified Cloud Practitioner exam 🌐.
 
 	
 ### Talking about Personal Stuffs:
