@@ -9,7 +9,7 @@
   
 <h2 align="center">Hey Guys :wave: I'm Bruna :stuck_out_tongue_closed_eyes:</h2>
     
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <p align="left"> 
 
@@ -18,20 +18,20 @@
 	
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs,NextJs,NuxtJs,Vue2 & Vue3, Express, React,React Native,TypeScript 
+- 🛠 &nbsp; I’m currently working with Node,Python,PHP,Next,Nuxt,Vue,Docker,React,React Native,TypeScript 
 and whatever you want me to work on 😅.
-- 🚀 &nbsp; I’m learning something new everyday.
-- 📖 &nbsp; I’m currently learning PHP.
+- 🚀 &nbsp; I’ve recently started my postgraduate studies in Software Engineering, further developing my skills in architecture, design patterns, and advanced development practices.
+- 📖 &nbsp; I’m currently deepening my knowledge of AWS in preparation for the AWS Certified Cloud Practitioner exam. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BrunaEduarda03).
 - 🤓 &nbsp; My Soft Skills: Collaboration,Creativity, Empathy, Resilience, Good Listener, Time Management, Argumentation
 - 💬 &nbsp; Talk to me about:TV shows,movies(scy-fy/horror),games,esports,awesome projects.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer.
 
 ### My Absolute Favorites:
 	
 - 🌱 &nbsp; I love to spend time with my family and friends and just talk about everything and anything at all.
 - 💻 &nbsp; I love to study and share what i know with others. 
-- ⚡ &nbsp; I Love to practice Sports (especially Volley and beach-tennis).
+- 🏅 &nbsp; I love practicing sports, especially volleyball and beach tennis, and I also enjoy cycling. 
 - :bulb: &nbsp; I love to participate in Hackathons, meetups & tech events.
 
 
