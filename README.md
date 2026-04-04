@@ -76,18 +76,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaEduarda03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaEduarda03&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunaEduarda03&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunaEduarda03&theme=github_dark" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrunaEduarda03/BrunaEduarda03/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/BrunaEduarda03/BrunaEduarda03/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
